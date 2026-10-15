@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1073459309705",
+    "project_id": "karjatcart-27fe5",
+    "storage_bucket": "karjatcart-27fe5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073459309705:android:7dd97d5f2317a20a446a58",
+        "android_client_info": {
+          "package_name": "com.example.karjat_grocery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1073459309705-46cj9l2r9rekbl7svf1d0ce5qggi1o0j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.karjat_grocery",
+            "certificate_hash": "094f652e033050c6b2333cf1d651a42d41086800"
+          }
+        },
+        {
+          "client_id": "1073459309705-rmpfv26c8p22donekacd9m7gfqn785m2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMtaCNIH8L2tmzJZnAfA6z5da6SBvtuhk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1073459309705-rmpfv26c8p22donekacd9m7gfqn785m2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1073459309705-gk7lqef837rmojes8jjphqqv0g15uuu3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.karjatGrocery"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
